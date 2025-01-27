@@ -103,6 +103,7 @@ body {
   left: 20px;
   width: 16px;
   height: 16px;
+  background-image: url("icon-change.svg");
 }
 
 .todo-priority.is-important {
